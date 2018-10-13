@@ -1,5 +1,8 @@
 <?php
 
+namespace FreebieStock;
+
+
 /**
 * @author FreebieVectors.com
 * 
